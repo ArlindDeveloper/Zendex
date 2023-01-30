@@ -31,8 +31,8 @@ const Header = () => {
             fontWeight={900}
             as="h1"
           >
-            Do you want to quickly file declarations for your containers? You do
-            that with Zendex.
+            We from Zendex are happy to help your company with the customs
+            formalities
           </Text>
           <SimpleGrid
             width={{ base: "100%", md: "20rem" }}
